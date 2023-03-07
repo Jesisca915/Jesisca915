@@ -1,15 +1,13 @@
-### Hi there 👋 
-<h1>I'm Jesisca &#128522;</h1>
+### <h1>Hi there 👋</h1> 
+<h2>I'm Jesisca &#128522;</h2>
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java & html
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 [Send me an anonymous message](https://secreto.site/a46rm6)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
