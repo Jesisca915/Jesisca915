@@ -12,6 +12,6 @@ About Me 🙋‍♀️🪐
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-#Connect with me
-[![website](./img/instagram-light.svg)](https://instagram.com/jesisca__#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/\jesisca__#gh-dark-mode-only)
+#Connect with me <br>
+[![website](./img/instagram-light.svg)](https://instagram.com/jesisca__?igshid=YmMyMTA2M2Y=#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/jesisca__?igshid=YmMyMTA2M2Y=#gh-dark-mode-only)
