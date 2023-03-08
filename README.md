@@ -11,3 +11,7 @@ About Me 🙋‍♀️🪐
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+#Connect with me
+[![website](./img/instagram-light.svg)](https://instagram.com/jesisca__#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/\jesisca__#gh-dark-mode-only)
