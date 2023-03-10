@@ -1,13 +1,14 @@
-[![MasterHead](https://tenor.com/view/banner-gif-22389167)
+<!-- [![MasterHead](https://thumbs.gfycat.com/ScaryOrdinaryBear-max-1mb.gif) -->
 <h1 align="center">Hello 👋, I'm Jesisca</h1>
 <h4 align="center">When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</h4>
-<img align="right" alt="spongebob" width="400" src="[https://i.gifer.com/yB.gif](https://giffiles.alphacoders.com/418/4187.gif)">
 
-- 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/) 👩‍🎓✨
+<img align="right" alt="spongebob" width="350" src="https://gifdb.com/images/high/spongebob-squidward-flowers-bwtvxczq4djfzb2e.gif">
 
-- 🌱 I’m currently learning **html & java** ♨
+🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/) 👩‍🎓✨
 
-- 📫 How to reach me **jesisca@mhs.mdp.ac.id** 
+🌱 I’m currently learning **html & java** ♨
+
+📫 How to reach me **jesisca@mhs.mdp.ac.id** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
