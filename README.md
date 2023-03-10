@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jesisca</h1>
 <h4 align="center">When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</h4>
+<img align="right" alt="spongebob" width="400" src=https://i.gifer.com/yB.gif">
 
 - 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/) 👩‍🎓✨
 
