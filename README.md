@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Jesisca</h1>
 <h4 align="center">When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.</h4>
 
-<img align="right" alt="spongebob" width="400" src="https://gifdb.com/images/high/spongebob-squidward-flowers-bwtvxczq4djfzb2e.gif">
+<img align="right" alt="spongebob" width="300" src="https://gifdb.com/images/high/spongebob-squidward-flowers-bwtvxczq4djfzb2e.gif">
 
 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/) 👩‍🎓✨
 
