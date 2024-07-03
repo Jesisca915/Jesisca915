@@ -6,7 +6,7 @@
 
 🔭 I’m currently studying on [Universitas Multi Data Palembang](https://mdp.ac.id/) 👩‍🎓✨
 
-🌱 I’m currently learning **html & java** ♨
+🌱 I’m currently learning **html, java & php** ♨
 
 📫 How to reach me **jesisca@mhs.mdp.ac.id** 
 
